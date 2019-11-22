@@ -5,7 +5,10 @@
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
-# BYR-Navi
+
+本项目是克隆BYR-Navi，请前往[BYR-Navi][https://github.com/BYR-Navi/BYR-Navi]
+
+＃BYR-Navi
 A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
 
 ## :triangular_ruler: Design Philosophy
